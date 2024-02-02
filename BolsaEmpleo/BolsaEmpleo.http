@@ -1,0 +1,6 @@
+@BolsaEmpleo_HostAddress = http://localhost:5263
+
+GET {{BolsaEmpleo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
